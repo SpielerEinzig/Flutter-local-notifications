@@ -1,15 +1,13 @@
 # flutter_notifications
 
-A new Flutter project.
+Working with flutter_local_notifications package to show and schedule notifications on android and iOS
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the project on git and run flutter pub get from the project directory
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)
+be sure to check it out on the link.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
